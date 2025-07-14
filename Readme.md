@@ -1,0 +1,1 @@
+Nesse projeto irei estudar sobre o Git
